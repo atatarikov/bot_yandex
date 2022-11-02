@@ -1,5 +1,5 @@
 import requests
-from .. settings import api_config
+from settings import api_config
 import json
 
 
